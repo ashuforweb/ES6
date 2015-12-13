@@ -5,3 +5,4 @@ This is a [link](https://www.google.com)
 - a list
 - trying the github signs
 🎉🎆
+- Added the git config --global push.default simple in git config
